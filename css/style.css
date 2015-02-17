@@ -19,3 +19,15 @@ border-radius: 0
 padding: 0 10px
 }
 
+
+/*Page*/
+.page{}
+.page h2{}
+
+
+/**  Page -- Specials **/
+#specials {}
+.special {}
+.special img{}
+.special h3{}
+.special p{}
