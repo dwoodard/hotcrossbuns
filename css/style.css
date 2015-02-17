@@ -73,7 +73,7 @@ background: url("http://lorempixel.com/920/920/people/1") no-repeat center cente
 background-size:cover;
 }
 #testimonials #aubreyr{
-background: url("http://lorempixel.com/920/920/animals") no-repeat center center;
+background: url("http://lorempixel.com/920/920/animals/1") no-repeat center center;
 background-size:cover;
 }
 #testimonials #jamesm{
@@ -84,4 +84,41 @@ background-size:cover;
 background: url("http://lorempixel.com/920/920/city/7") no-repeat center center;
 background-size:cover;
 }
+
+
+
+/**  Footer **/
+
+footer{
+	background: #586d74;
+	color: white;
+	/*font-size: .8em;*/
+	padding: 20px 0 40px 0;
+}
+
+footer a{
+	color:#E0E6AE !important;
+}
+footer a:hover{
+	color:#E0C856 !important;
+}
+
+footer .navbar{
+	margin-bottom: 0;
+	min-height: 0;
+}
+footer .phone{
+	color: #e0e6ae;
+	font-size: 1.4em;
+	font-weight: bold;
+
+}
+
+footer .navbar-default{
+	background: transparent;
+	border:none;
+	margin-right: 40px;
+}
+
+
 
