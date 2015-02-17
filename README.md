@@ -1,2 +1,0 @@
-# hotcrossbuns
-project site
