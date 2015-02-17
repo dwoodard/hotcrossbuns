@@ -4,6 +4,9 @@ img{
 
 body{
 padding-top: 50px;
+
+/*scroll-spy*/
+position: relative;
 }
 
 .navbar {
